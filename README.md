@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Abdul Mannan Siddiqi</h1>
+<h3 align="center">Full Stack Developer | Building AI-Powered Web Applications</h3>
 
-<!--
-**abdulmannansiddiqi/abdulmannansiddiqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Full Stack Developer — building responsive web apps with **React.js / JavaScript** and integrating **AI-powered features**
+- 🎓 Studied Computer and Information Sciences at **The Islamia University of Bahawalpur**
+- 🌱 Currently exploring **Prompt Engineering** — Chain-of-Thought, Few-Shot, RAG, and Role Prompting
+- 🛠️ I enjoy turning ideas into deployed, working products — from concept to live demo
+- 📍 Based in Lahore, Pakistan
+
+---
+
+### 🧰 Tech Stack
+
+**Frontend:** React.js · JavaScript · HTML5 · CSS3
+**Backend:** Node.js · Express · MongoDB
+**AI Integration:** Flask · Python
+**Other:** Git & GitHub · FTP Deployment
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description |
+|---|---|
+| **Coal Trade AI Marketplace** | AI-integrated marketplace platform, deployed on Vercel |
+| **Daycare Management System** | Full web app for managing daycare operations |
+| **Handmade Crafts Store** | E-commerce style storefront for handmade products |
+
+
+---
+
+### 📫 Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/abdulmannansiddiqi/) · [GitHub](https://github.com/abdulmannansiddiqi)
+
+---
+
+<p align="center"><i>Building, breaking, fixing — and learning something new every day.</i></p>
