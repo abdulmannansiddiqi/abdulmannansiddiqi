@@ -22,6 +22,13 @@
 
 ---
 
+### 📜 Certifications
+
+- Full Stack Web Development Certification — NAVTTC
+- IT Specialist – JavaScript Certification — Pearson VUE
+
+---
+
 ### 📌 Featured Projects
 
 | Project | Description |
