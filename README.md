@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Abdul Mannan Siddiqi</h1>
+<h1 align="center">Hi , I'm Abdul Mannan Siddiqi</h1>
 <h3 align="center">Full Stack Developer | Building AI-Powered Web Applications</h3>
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-- 💻 Full Stack Developer — building responsive web apps with **React.js / JavaScript** and integrating **AI-powered features**
-- 🎓 Studied Computer and Information Sciences at **The Islamia University of Bahawalpur**
-- 🌱 Currently exploring **Prompt Engineering** — Chain-of-Thought, Few-Shot, RAG, and Role Prompting
-- 🛠️ I enjoy turning ideas into deployed, working products — from concept to live demo
-- 📍 Based in Lahore, Pakistan
+-  Full Stack Developer — building responsive web apps with **React.js / JavaScript** and integrating **AI-powered features**
+-  Studied Computer and Information Sciences at **The Islamia University of Bahawalpur**
+-  Currently exploring **Prompt Engineering** — Chain-of-Thought, Few-Shot, RAG, and Role Prompting
+-  I enjoy turning ideas into deployed, working products — from concept to live demo
+-  Based in Lahore, Pakistan
 
 ---
 
-### 🧰 Tech Stack
+###  Tech Stack
 
 **Frontend:** React.js · JavaScript · HTML5 · CSS3
 **Backend:** Node.js · Express · MongoDB
@@ -22,14 +22,14 @@
 
 ---
 
-### 📜 Certifications
+###  Certifications
 
 - Full Stack Web Development Certification — NAVTTC
 - IT Specialist – JavaScript Certification — Pearson VUE
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 
 | Project | Description |
 |---|---|
@@ -40,7 +40,7 @@
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 
 [LinkedIn](https://www.linkedin.com/in/abdulmannansiddiqi/) · [GitHub](https://github.com/abdulmannansiddiqi)
 
