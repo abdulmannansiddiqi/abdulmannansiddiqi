@@ -33,16 +33,16 @@
 
 | Project | Description |
 |---|---|
+| **[Madina Model School Website](https://madina-school-website.vercel.app)** | Full-stack school website with admin panel — Next.js, Express, Prisma, MySQL, deployed on Vercel + Render |
 | **Coal Trade AI Marketplace** | AI-integrated marketplace platform, deployed on Vercel |
 | **Daycare Management System** | Full web app for managing daycare operations |
 | **Handmade Crafts Store** | E-commerce style storefront for handmade products |
-
 
 ---
 
 ###  Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/abdulmannansiddiqi/) · [GitHub](https://github.com/abdulmannansiddiqi)
+[Portfolio](https://portfolio-mern-a.vercel.app) · [LinkedIn](https://www.linkedin.com/in/abdulmannansiddiqi/) · [GitHub](https://github.com/abdulmannansiddiqi)
 
 ---
 
